@@ -13,4 +13,8 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+
+    <style name="mainActivity" parent="Theme.Material3.Dark">
+        <item name="android:statusBarColor">@color/extra_light_grey</item>
+    </style>
 </resources>
