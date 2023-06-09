@@ -1,3 +1,4 @@
 # NewsByRetroFit
 Simple News Application created by 
-- Retrofit library
+- Retrofit Library
+- Glide Library
